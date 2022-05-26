@@ -6,7 +6,7 @@
 }
 *,*:before,*:after{
 	-moz-box-sizing: border-box;
-	webkit-box-sizing: border-box;
+
 	box-sizing: border-box ;
 }
 :focus,:active{outline: none}
@@ -87,7 +87,6 @@ body{
 	background-color: #eee;
 }
 
-.list {}
 .list li{
 	font-size: 18px;
 	margin: 0 0 15px 0;
